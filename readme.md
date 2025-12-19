@@ -1,16 +1,16 @@
 This project uses supervised machine learning on a real Kaggle dataset to:
 
-Clean and preprocess flight data
+-Clean and preprocess flight data
 
-Engineer meaningful numerical features
+-Engineer meaningful numerical features
 
-Train and compare ML regressors
+-Train and compare ML regressors
 
-Store pipelines using Joblib
+-Store pipelines using Joblib
 
-Provide an interactive web-based prediction UI
+-Provide an interactive web-based prediction UI
 
-The dataset contains 10,683 flights, sourced from Kaggle, with price as the target variable 
+-The dataset contains 10,683 flights, sourced from Kaggle, with price as the target variable 
 
 | Model                  | Type                      | Performance             |
 | ---------------------- | ------------------------- | ----------------------- |
